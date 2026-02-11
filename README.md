@@ -4431,7 +4431,7 @@ function GetASN() {
 }
 ```
 
-Example:
+Example:órdenes mejor pagadas en shopper app 
 
 ```bash
 shell> GetASN 1.1.1.1
